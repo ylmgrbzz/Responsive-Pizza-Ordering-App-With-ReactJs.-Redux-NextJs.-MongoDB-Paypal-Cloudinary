@@ -1,4 +1,4 @@
-# Responsive Pizza Ordering App With ReactJs. Redux NextJs. Node MongoDB Paypal Cloudinary
+# Responsive Pizza Ordering App With ReactJs. Redux NextJs.  MongoDB Paypal Cloudinary
  Responsive Pizza Ordering App With ReactJs. Redux NextJs. Axios Cookie MongoDB Paypal Cloudinary
 ![Ekran görüntüsü 2022-10-04 232014](https://user-images.githubusercontent.com/99664429/193919319-f137b576-5819-4947-9b5b-6a38f0f5ccc9.png)
 ![2](https://user-images.githubusercontent.com/99664429/193919334-75827a70-54df-449b-83b5-ce6f5c18f156.png)
